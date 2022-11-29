@@ -1,0 +1,35 @@
+- class_name: 友链
+  class_desc:
+  link_list:
+    - name: 林德熙
+      link: https://blog.lindexi.com
+      avatar: https://blog.lindexi.com/img/avatar.png
+      descr: Windows 10 App Developer
+    - name: 涛
+      link: https://wink1999.github.io
+      avatar: https://s2.loli.net/2022/07/21/8OICu7cdyk5p4jD.jpg
+      descr:  阿里巴巴前端开发工程师
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Apple Developer
+      link: https://developer.apple.com/cn/
+      avatar: https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png
+      descr: Apple开发者网站
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
+    - name: MacWK
+      link: https://www.macwk.com/
+      avatar: https://static.facebstore.com/assets/images/home-banner-carry.png
+      descr: macOS应用下载网站
+    - name: 中国大学MOOC
+      link: https://www.icourse163.org/
+      avatar: https://edu-image.nosdn.127.net/6C21E8FAE2F95E8A964501AB5F920FC8.png
+      descr: 学习
