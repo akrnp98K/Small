@@ -4,6 +4,6 @@
 
 #下载：
 ```
-git clone main https://github.com/akrnp98K/Small.git
+git clone https://github.com/akrnp98K/Small.git
 ```
 
