@@ -13,4 +13,5 @@ National Aeronautics and Space Administration
 ![SLS日落](https://live.staticflickr.com/65535/52323316587_79286a65ff_o_d.jpg)
 ![詹姆斯·韦伯太空望远镜简报会](https://live.staticflickr.com/65535/52181207042_ed517d6586_o_d.jpg)
 ![SpaceX Crew-4发射](https://live.staticflickr.com/65535/52033616664_3a9ce0c600_o_d.jpg)
+![Pillars of Creation 创生之柱](https://stsci-opo.org/STScI-01GGF8H15VZ09MET9HFBRQX4S3.png)
 {% endgallery %}
