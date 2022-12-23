@@ -14,4 +14,5 @@ National Aeronautics and Space Administration
 ![詹姆斯·韦伯太空望远镜简报会](https://live.staticflickr.com/65535/52181207042_ed517d6586_o_d.jpg)
 ![SpaceX Crew-4发射](https://live.staticflickr.com/65535/52033616664_3a9ce0c600_o_d.jpg)
 ![Pillars of Creation 创生之柱](https://stsci-opo.org/STScI-01GGF8H15VZ09MET9HFBRQX4S3.png)
+![Curiosity at 'Glen Etive' 好奇号火星探测车](https://www.nasa.gov/sites/default/files/thumbnails/image/pia23378-16.jpg)
 {% endgallery %}
