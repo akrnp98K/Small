@@ -7,4 +7,4 @@ aplayer: true
 ---
 
 
-{% meting "8556824432" "tencent" "playlist" "mutex:false" "listmaxheight:400px" "preload:none" "theme:#ad7a86"%}
+<div class="aplayer" data-id="8556824432" data-server="tencent" data-type="playlist" data-mutex="false" data-preload="none" data-theme="#ad7a86"></div>
