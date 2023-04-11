@@ -108,3 +108,6 @@ deploy:
     - type: 'git'   #部署类型
       repo: git@github.com:akrnp98K/akrnp98K.github.io.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
       branch: master  #GitHub分支
+    # - type: 'git'   #部署类型
+    #   repo: https://gitee.com/ACK_WANG/Blog.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+    #   branch: master  #GitHub分支

@@ -3,16 +3,16 @@ title: About
 date: 2022-09-01 12:24:11
 ---
 
- <h1>Welcome</h1>
- 个人经历简述：
- + iOS开发者(初中二年级至今)
+ <!-- <h1>Welcome</h1> -->
+ <!-- 个人经历简述：
+ + iOS开发者()
  + 前端工程师(Apple 短暂且很久以前)
  + 网络安全研究员(行吟信息科技)
  + Java开发(行吟信息科技)
  + iOS开发(深度)
  + 算法工程师(Apple)
  + 云计算(Apple - iCloud)
- + Kernel Engineer(Apple)
+ + Kernel Engineer(Apple) -->
 
  {% mermaid %}
 gantt
@@ -48,12 +48,12 @@ gantt
     section Most Important
     ShiHan Wang                         :after doc1, 2000-03-08,2022-08-12
 {% endmermaid %}
-
+<!-- 
 整理了一下这些年的工作经历，还挺满意的。<br>
 除了前端方面，但其实细想一下我前端领域技术栈也足够去一个所谓的大厂😂<br>
 
 2022-08-12 北京
-To commemorate the past 20 years since I wrote my first line of code！
+To commemorate the past 20 years since I wrote my first line of code！ -->
 ``` Objective-C
 NSLog(@"Hello 1111!");
 ```
