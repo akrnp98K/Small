@@ -1,6 +1,6 @@
 ---
 title: Good night Mr. Lawrence
-top: 10
+top: 0
 date: 2023-04-02 22:45:08
 top_img: https://bu.dusays.com/2023/04/02/642994002b206.jpg
 cover: https://bu.dusays.com/2023/04/02/642994002b206.jpg
